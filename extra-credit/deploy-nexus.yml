@@ -130,7 +130,6 @@ metadata:
   annotations:
     openshift.io/host.generated: 'true'
 spec:
-  host: nexus3-nexus.apps.ocp4.davenet.local
   to:
     kind: Service
     name: nexus3
